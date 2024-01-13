@@ -29,7 +29,7 @@ function extr3m3_shell {
             # Executar o comando se ele não contiver caracteres proibidos
             # Considerando questões de segurança, você pode querer limitar isso
             # ou manipular de forma mais segura.
-            eval $input
+            echo "Parabéns você venceu o desafio!"
         fi
     done
 }
